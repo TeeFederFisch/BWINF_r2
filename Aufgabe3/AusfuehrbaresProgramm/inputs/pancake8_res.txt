@@ -1,0 +1,2 @@
+WUEOs: 5 bei [11, 8, 6, 4, 2]
+Ergebnisstapel: [6, 7, 8, 9, 10, 11]
